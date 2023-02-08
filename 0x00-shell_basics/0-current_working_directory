@@ -1,2 +1,2 @@
 #!/bin/bash
-readlink -m 0-current_working_directory 
+dirname $(readlink -f 0-current_working_directory)
