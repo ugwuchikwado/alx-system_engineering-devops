@@ -1,2 +1,2 @@
 #!/bin/bash
-adduser betty chown betty 3-new_owner  
+sudo chown betty 3-new_owner  
